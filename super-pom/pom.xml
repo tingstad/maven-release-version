@@ -3,11 +3,11 @@
 
     <groupId>org.tingstad</groupId>
     <artifactId>super-pom</artifactId>
-    <version>1.2.3-SNAPSHOT</version>
+    <version>1.2.3</version>
     <packaging>pom</packaging>
 
     <properties>
-        <super-pom.version>1.2.3-SNAPSHOT</super-pom.version>
+        <super-pom.version>1.2.3</super-pom.version>
     </properties>
 
     <modules>
@@ -62,6 +62,7 @@
         <url>https://github.com/tingstad/maven-release-version</url>
         <connection>scm:git:git://github.com/tingstad/maven-release-version.git</connection>
         <developerConnection>scm:git:git@github.com:tingstad/maven-release-version.git</developerConnection>
-    </scm>
+      <tag>super-pom-1.2.3</tag>
+  </scm>
 
 </project>
