@@ -8,6 +8,7 @@
 
     <properties>
         <super-pom.version>1.2.4-SNAPSHOT</super-pom.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <modules>
