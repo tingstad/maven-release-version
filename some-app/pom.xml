@@ -15,4 +15,8 @@
         <module>module-a</module>
     </modules>
 
+    <scm>
+        <developerConnection>scm:git:git@github.com:tingstad/maven-release-version.git</developerConnection>
+    </scm>
+
 </project>
