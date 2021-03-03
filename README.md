@@ -22,7 +22,7 @@ The architecture of this example:
 
 ![Architecture](graph.svg)
 
-Note the different arrows for inheritance, depends, and builds.
+Note the different arrows for inheritance, depends, and builds. The two boxes are released independently.
 
 This architecture is not a prerequisite for using the technique, it just demonstrates that it works in a non-trivial case.
 
