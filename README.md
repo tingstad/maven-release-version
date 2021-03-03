@@ -1,4 +1,4 @@
-# maven-release-version
+# Maven release version property example
 
 An example project demonstrating one way to automatically set a `<property>` to the the project's `version`, that is:
 
