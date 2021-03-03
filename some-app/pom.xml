@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>some-app</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -17,7 +17,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:tingstad/maven-release-version.git</developerConnection>
-      <tag>some-app-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
